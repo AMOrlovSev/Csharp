@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex02_StructType/1.0.0": {
+        "dependencies": {
+          "Ex01_BankAccount": "1.0.0"
+        },
+        "runtime": {
+          "Ex02_StructType.dll": {}
+        }
+      },
+      "Ex01_BankAccount/1.0.0": {
+        "runtime": {
+          "Ex01_BankAccount.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex02_StructType/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex01_BankAccount/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

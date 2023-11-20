@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Ex02_Greetings", "Ex02\Ex02_Greetings.csproj", "{23EC9E31-B528-4CC1-BA2B-900D21B06DD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Ex01", "Ex01", "{CC0BB65A-4143-4F6E-A639-66E7BE3A99DA}"
+	ProjectSection(SolutionItems) = preProject
+		Ex01\Ex01.cs = Ex01\Ex01.cs
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex03", "Ex03\Ex03.csproj", "{29818F7B-EBEE-4D3D-83CE-015E717166D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex04_Divider", "Ex04_Divider\Ex04_Divider.csproj", "{01430D7A-AD26-4432-BD6C-B33EF29D2C10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex05_TriangleGeometry", "Ex05_AreaOfTriangle\Ex05_TriangleGeometry.csproj", "{A533B001-A516-46D1-98CD-D0A27D4E2524}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23EC9E31-B528-4CC1-BA2B-900D21B06DD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23EC9E31-B528-4CC1-BA2B-900D21B06DD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23EC9E31-B528-4CC1-BA2B-900D21B06DD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23EC9E31-B528-4CC1-BA2B-900D21B06DD7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29818F7B-EBEE-4D3D-83CE-015E717166D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29818F7B-EBEE-4D3D-83CE-015E717166D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29818F7B-EBEE-4D3D-83CE-015E717166D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29818F7B-EBEE-4D3D-83CE-015E717166D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01430D7A-AD26-4432-BD6C-B33EF29D2C10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01430D7A-AD26-4432-BD6C-B33EF29D2C10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01430D7A-AD26-4432-BD6C-B33EF29D2C10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01430D7A-AD26-4432-BD6C-B33EF29D2C10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A533B001-A516-46D1-98CD-D0A27D4E2524}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A533B001-A516-46D1-98CD-D0A27D4E2524}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A533B001-A516-46D1-98CD-D0A27D4E2524}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A533B001-A516-46D1-98CD-D0A27D4E2524}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B94002B9-007E-4EB2-84F3-B44F78A35193}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab01\\Ex04_Divider\\Ex04_Divider.csproj": {}
+  },
+  "projects": {
+    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab01\\Ex04_Divider\\Ex04_Divider.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab01\\Ex04_Divider\\Ex04_Divider.csproj",
+        "projectName": "Ex04_Divider",
+        "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab01\\Ex04_Divider\\Ex04_Divider.csproj",
+        "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
+        "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab01\\Ex04_Divider\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
