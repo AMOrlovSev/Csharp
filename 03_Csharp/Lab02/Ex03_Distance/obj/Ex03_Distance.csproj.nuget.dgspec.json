@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj": {}
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj": {}
   },
   "projects": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj": {
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj",
+        "projectUniqueName": "F:\\_Repository\\03_Csharp\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj",
         "projectName": "Ex03_Distance",
-        "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj",
+        "projectPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex03_Distance\\Ex03_Distance.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex03_Distance\\obj\\",
+        "outputPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex03_Distance\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",

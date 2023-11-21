@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {}
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {}
   },
   "projects": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
+        "projectUniqueName": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
         "projectName": "Ex01_BankAccount",
-        "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
+        "projectPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\obj\\",
+        "outputPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",

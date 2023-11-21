@@ -7,7 +7,7 @@
             int numberOfShots = 0;
             try
             {
-                Console.Write("Колличество выстрелов: ");
+                Console.Write("Количество выстрелов: ");
                 numberOfShots = int.Parse(Console.ReadLine());
             }
             catch (FormatException e)
@@ -24,8 +24,8 @@
             if (blindyActivation =="Y" || blindyActivation == "y")
             {
                 var rand = new Random();
-                UserTargetCenter.targetCenterX = rand.Next(10);
-                UserTargetCenter.targetCenterY = rand.Next(10);
+                UserTargetCenter.targetCenterX = rand.Next(5);
+                UserTargetCenter.targetCenterY = rand.Next(5);
                 //Console.WriteLine($"Центр мишени по X: {UserTargetCenter.targetCenterX} и по Y: {UserTargetCenter.targetCenterY} ");
             }
 
@@ -58,6 +58,7 @@
                 //Console.WriteLine($"Очки: {points}");
             }
             Console.WriteLine($"Очки: {points}");
+            Console.ReadKey();
         }
     }
 

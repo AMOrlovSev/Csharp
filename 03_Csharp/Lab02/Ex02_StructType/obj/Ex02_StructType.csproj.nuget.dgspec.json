@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj": {}
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj": {}
   },
   "projects": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
+        "projectUniqueName": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
         "projectName": "Ex01_BankAccount",
-        "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
+        "projectPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\obj\\",
+        "outputPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj": {
+    "F:\\_Repository\\03_Csharp\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj",
+        "projectUniqueName": "F:\\_Repository\\03_Csharp\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj",
         "projectName": "Ex02_StructType",
-        "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj",
+        "projectPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex02_StructType\\Ex02_StructType.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex02_StructType\\obj\\",
+        "outputPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex02_StructType\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {
-                "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj"
+              "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj": {
+                "projectPath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj"
               }
             }
           }

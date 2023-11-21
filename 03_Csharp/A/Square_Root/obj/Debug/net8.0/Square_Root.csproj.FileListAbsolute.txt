@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\A\Square_Root\bin\Debug\net8.0\Square_Root.exe
+F:\_Repository\03_Csharp\A\Square_Root\bin\Debug\net8.0\Square_Root.deps.json
+F:\_Repository\03_Csharp\A\Square_Root\bin\Debug\net8.0\Square_Root.runtimeconfig.json
+F:\_Repository\03_Csharp\A\Square_Root\bin\Debug\net8.0\Square_Root.dll
+F:\_Repository\03_Csharp\A\Square_Root\bin\Debug\net8.0\Square_Root.pdb
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.AssemblyInfo.cs
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.sourcelink.json
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.dll
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\refint\Square_Root.dll
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.pdb
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\Square_Root.genruntimeconfig.cache
+F:\_Repository\03_Csharp\A\Square_Root\obj\Debug\net8.0\ref\Square_Root.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKC0g/1GSuektc+toR99AQQijwFcJlcddIjZG5EILe4xjHRtb5fy2Ts0b4R8MAEQcqu53Euvc/x6ud7iWNVn3A==",
+  "dgSpecHash": "8phsdBj0agtzboHJtcWwyoPnsA8df9lUUQnFTYSNvO+y+Hd05CnHrQ21EVBD+9ciVgXyOQ1cPq009o+UIIqouQ==",
   "success": true,
-  "projectFilePath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
+  "projectFilePath": "F:\\_Repository\\03_Csharp\\Lab02\\Ex01\\Ex01_BankAccount.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

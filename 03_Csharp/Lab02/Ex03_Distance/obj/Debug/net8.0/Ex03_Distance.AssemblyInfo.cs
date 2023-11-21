@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Ex03_Distance")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+47dbb0db1373d90338db7ce183230767cc06e6c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Ex03_Distance")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Ex03_Distance")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

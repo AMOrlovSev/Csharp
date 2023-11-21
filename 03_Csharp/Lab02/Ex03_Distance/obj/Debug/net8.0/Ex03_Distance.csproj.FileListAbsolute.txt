@@ -12,3 +12,18 @@ F:\ИТМО\03 Программирование на C#\_ДЗ\Lab02\Lab02\Ex03_D
 F:\ИТМО\03 Программирование на C#\_ДЗ\Lab02\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.pdb
 F:\ИТМО\03 Программирование на C#\_ДЗ\Lab02\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.genruntimeconfig.cache
 F:\ИТМО\03 Программирование на C#\_ДЗ\Lab02\Lab02\Ex03_Distance\obj\Debug\net8.0\ref\Ex03_Distance.dll
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\bin\Debug\net8.0\Ex03_Distance.exe
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\bin\Debug\net8.0\Ex03_Distance.deps.json
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\bin\Debug\net8.0\Ex03_Distance.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\bin\Debug\net8.0\Ex03_Distance.dll
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\bin\Debug\net8.0\Ex03_Distance.pdb
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.sourcelink.json
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.dll
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\refint\Ex03_Distance.dll
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.pdb
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\Ex03_Distance.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab02\Ex03_Distance\obj\Debug\net8.0\ref\Ex03_Distance.dll
