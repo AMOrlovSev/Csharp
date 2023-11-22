@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.sourcelink.json
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\bin\Debug\net8.0\Ex05_Root.exe
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\bin\Debug\net8.0\Ex05_Root.deps.json
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\bin\Debug\net8.0\Ex05_Root.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\bin\Debug\net8.0\Ex05_Root.dll
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\bin\Debug\net8.0\Ex05_Root.pdb
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.dll
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\refint\Ex05_Root.dll
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.pdb
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\Ex05_Root.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab04\Ex05_Root\obj\Debug\net8.0\ref\Ex05_Root.dll

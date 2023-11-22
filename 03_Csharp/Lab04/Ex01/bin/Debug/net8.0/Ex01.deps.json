@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ex01/1.0.0": {
+        "dependencies": {
+          "Ex02": "1.0.0",
+          "Ex03": "1.0.0"
+        },
+        "runtime": {
+          "Ex01.dll": {}
+        }
+      },
+      "Ex02/1.0.0": {
+        "runtime": {
+          "Ex02.dll": {}
+        }
+      },
+      "Ex03/1.0.0": {
+        "runtime": {
+          "Ex03.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ex01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Ex03/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
