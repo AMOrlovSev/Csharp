@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Ak\Root_Tuple\bin\Debug\net8.0\Root_Tuple.exe
+F:\_Repository\03_Csharp\Ak\Root_Tuple\bin\Debug\net8.0\Root_Tuple.deps.json
+F:\_Repository\03_Csharp\Ak\Root_Tuple\bin\Debug\net8.0\Root_Tuple.runtimeconfig.json
+F:\_Repository\03_Csharp\Ak\Root_Tuple\bin\Debug\net8.0\Root_Tuple.dll
+F:\_Repository\03_Csharp\Ak\Root_Tuple\bin\Debug\net8.0\Root_Tuple.pdb
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.sourcelink.json
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.dll
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\refint\Root_Tuple.dll
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.pdb
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\Root_Tuple.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Ak\Root_Tuple\obj\Debug\net8.0\ref\Root_Tuple.dll

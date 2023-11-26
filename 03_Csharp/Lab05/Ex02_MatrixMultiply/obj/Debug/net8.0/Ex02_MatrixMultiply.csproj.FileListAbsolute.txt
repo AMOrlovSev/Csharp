@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\bin\Debug\net8.0\Ex02_MatrixMultiply.exe
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\bin\Debug\net8.0\Ex02_MatrixMultiply.deps.json
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\bin\Debug\net8.0\Ex02_MatrixMultiply.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\bin\Debug\net8.0\Ex02_MatrixMultiply.dll
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\bin\Debug\net8.0\Ex02_MatrixMultiply.pdb
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.sourcelink.json
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.dll
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\refint\Ex02_MatrixMultiply.dll
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.pdb
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\Ex02_MatrixMultiply.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab05\Ex02_MatrixMultiply\obj\Debug\net8.0\ref\Ex02_MatrixMultiply.dll

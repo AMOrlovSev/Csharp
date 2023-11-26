@@ -15,7 +15,7 @@
             Console.WriteLine("Введите коэффициент c");
             double c = double.Parse(Console.ReadLine());
 
-            flag = Root.Roots(a, b, c, ref x1, ref x2);
+            flag = Root.Roots(a, b, c, out x1, out x2);
 
             if (flag == 1) 
             {
@@ -40,9 +40,11 @@
             return D;
         }
 
-        public static int Roots(double a, double b, double c, ref double x1, ref double x2)
+        public static int Roots(double a, double b, double c, out double x1, out double x2)
         {
             int flag;
+            x1 = 0;
+            x2 = 0;
             double D = Discriminant(a, b, c);
             if (D > 0) 
             {
