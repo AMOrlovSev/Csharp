@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex04_Target\\Ex04_Target.csproj": {}
+    "F:\\_Repository\\03_Csharp\\Lab03\\Ex04_Target\\Ex04_Target.csproj": {}
   },
   "projects": {
-    "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex04_Target\\Ex04_Target.csproj": {
+    "F:\\_Repository\\03_Csharp\\Lab03\\Ex04_Target\\Ex04_Target.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex04_Target\\Ex04_Target.csproj",
+        "projectUniqueName": "F:\\_Repository\\03_Csharp\\Lab03\\Ex04_Target\\Ex04_Target.csproj",
         "projectName": "Ex04_Target",
-        "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex04_Target\\Ex04_Target.csproj",
+        "projectPath": "F:\\_Repository\\03_Csharp\\Lab03\\Ex04_Target\\Ex04_Target.csproj",
         "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-        "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex04_Target\\obj\\",
+        "outputPath": "F:\\_Repository\\03_Csharp\\Lab03\\Ex04_Target\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",

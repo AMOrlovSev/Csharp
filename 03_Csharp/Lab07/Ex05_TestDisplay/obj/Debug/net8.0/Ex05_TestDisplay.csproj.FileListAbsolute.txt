@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\bin\Debug\net8.0\Ex05_TestDisplay.exe
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\bin\Debug\net8.0\Ex05_TestDisplay.deps.json
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\bin\Debug\net8.0\Ex05_TestDisplay.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\bin\Debug\net8.0\Ex05_TestDisplay.dll
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\bin\Debug\net8.0\Ex05_TestDisplay.pdb
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.sourcelink.json
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.dll
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\refint\Ex05_TestDisplay.dll
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.pdb
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\Ex05_TestDisplay.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab07\Ex05_TestDisplay\obj\Debug\net8.0\ref\Ex05_TestDisplay.dll

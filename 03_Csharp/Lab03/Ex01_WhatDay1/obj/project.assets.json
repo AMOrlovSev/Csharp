@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex01_WhatDay1\\Ex01_WhatDay1.csproj",
+      "projectUniqueName": "F:\\_Repository\\03_Csharp\\Lab03\\Ex01_WhatDay1\\Ex01_WhatDay1.csproj",
       "projectName": "Ex01_WhatDay1",
-      "projectPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex01_WhatDay1\\Ex01_WhatDay1.csproj",
+      "projectPath": "F:\\_Repository\\03_Csharp\\Lab03\\Ex01_WhatDay1\\Ex01_WhatDay1.csproj",
       "packagesPath": "C:\\Users\\Artem\\.nuget\\packages\\",
-      "outputPath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab03\\Ex01_WhatDay1\\obj\\",
+      "outputPath": "F:\\_Repository\\03_Csharp\\Lab03\\Ex01_WhatDay1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Artem\\AppData\\Roaming\\NuGet\\NuGet.Config",

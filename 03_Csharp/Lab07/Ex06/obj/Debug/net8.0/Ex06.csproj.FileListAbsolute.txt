@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab07\Ex06\bin\Debug\net8.0\Ex06.exe
+F:\_Repository\03_Csharp\Lab07\Ex06\bin\Debug\net8.0\Ex06.deps.json
+F:\_Repository\03_Csharp\Lab07\Ex06\bin\Debug\net8.0\Ex06.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab07\Ex06\bin\Debug\net8.0\Ex06.dll
+F:\_Repository\03_Csharp\Lab07\Ex06\bin\Debug\net8.0\Ex06.pdb
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.sourcelink.json
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.dll
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\refint\Ex06.dll
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.pdb
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\Ex06.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab07\Ex06\obj\Debug\net8.0\ref\Ex06.dll

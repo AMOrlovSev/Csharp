@@ -1,0 +1,39 @@
+USING SYSTEM;
+USING SYSTEM.IO;
+
+/// <SUMMARY>
+///    CLASS TO CREATE AN UPPER CASE COPY OF A FILE
+/// </SUMMARY>
+PUBLIC CLASS COPYFILEUPPER
+{
+	PUBLIC STATIC VOID MAIN()
+	{
+        TRY
+        {
+            CONSOLE.WRITE("COPY FROM: ");
+            STRING SFROM = CONSOLE.READLINE();
+            CONSOLE.WRITE("COPY TO: ");
+            STRING STO = CONSOLE.READLINE();
+            CONSOLE.WRITE($"COPY FROM: {SFROM} TO: {STO}");
+            STREAMREADER SRFROM = NEW STREAMREADER(SFROM);
+            STREAMWRITER SWTO = NEW STREAMWRITER(STO);
+            WHILE (SRFROM.PEEK() != -1)
+            {
+                STRING SBUFFER = SRFROM.READLINE();
+                SBUFFER = SBUFFER.TOUPPER();
+                SWTO.WRITELINE(SBUFFER);
+            }
+            SWTO.CLOSE();
+            SRFROM.CLOSE();
+        }
+        CATCH (FILENOTFOUNDEXCEPTION)
+            {
+                CONSOLE.WRITELINE("INPUT FILE NOT FOUND");
+            }
+        CATCH (EXCEPTION E) 
+            {
+                CONSOLE.WRITELINE("UNEXPECTED EXCEPTION");
+                CONSOLE.WRITELINE(E.TOSTRING());
+            } 
+	}       
+}

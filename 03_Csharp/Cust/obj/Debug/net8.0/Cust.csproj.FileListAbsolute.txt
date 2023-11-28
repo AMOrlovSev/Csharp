@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Cust\bin\Debug\net8.0\Cust.exe
+F:\_Repository\03_Csharp\Cust\bin\Debug\net8.0\Cust.deps.json
+F:\_Repository\03_Csharp\Cust\bin\Debug\net8.0\Cust.runtimeconfig.json
+F:\_Repository\03_Csharp\Cust\bin\Debug\net8.0\Cust.dll
+F:\_Repository\03_Csharp\Cust\bin\Debug\net8.0\Cust.pdb
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.sourcelink.json
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.dll
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\refint\Cust.dll
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.pdb
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\Cust.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Cust\obj\Debug\net8.0\ref\Cust.dll

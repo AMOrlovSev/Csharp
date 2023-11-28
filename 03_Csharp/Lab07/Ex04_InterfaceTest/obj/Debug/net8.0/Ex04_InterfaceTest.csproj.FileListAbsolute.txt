@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\bin\Debug\net8.0\Ex04_InterfaceTest.exe
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\bin\Debug\net8.0\Ex04_InterfaceTest.deps.json
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\bin\Debug\net8.0\Ex04_InterfaceTest.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\bin\Debug\net8.0\Ex04_InterfaceTest.dll
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\bin\Debug\net8.0\Ex04_InterfaceTest.pdb
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.sourcelink.json
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.dll
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\refint\Ex04_InterfaceTest.dll
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.pdb
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\Ex04_InterfaceTest.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab07\Ex04_InterfaceTest\obj\Debug\net8.0\ref\Ex04_InterfaceTest.dll

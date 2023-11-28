@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\bin\Debug\net8.0\Ex01_TransferFrom.exe
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\bin\Debug\net8.0\Ex01_TransferFrom.deps.json
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\bin\Debug\net8.0\Ex01_TransferFrom.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\bin\Debug\net8.0\Ex01_TransferFrom.dll
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\bin\Debug\net8.0\Ex01_TransferFrom.pdb
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.sourcelink.json
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.dll
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\refint\Ex01_TransferFrom.dll
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.pdb
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\Ex01_TransferFrom.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab07\Ex01_TransferFrom\obj\Debug\net8.0\ref\Ex01_TransferFrom.dll

@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\bin\Debug\net8.0\Ex03_CopyFileUpper.exe
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\bin\Debug\net8.0\Ex03_CopyFileUpper.deps.json
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\bin\Debug\net8.0\Ex03_CopyFileUpper.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\bin\Debug\net8.0\Ex03_CopyFileUpper.dll
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\bin\Debug\net8.0\Ex03_CopyFileUpper.pdb
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.sourcelink.json
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.dll
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\refint\Ex03_CopyFileUpper.dll
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.pdb
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\Ex03_CopyFileUpper.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab07\Ex03_CopyFileUpper\obj\Debug\net8.0\ref\Ex03_CopyFileUpper.dll

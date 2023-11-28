@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fAG3EbvMx1iVLTe4jfR1nYxbv+5I/aoIos5avV7hnpEHKeznZyFlb0IKPXXkQuzWAZMaQj6Yyux78q8ZVJKwzg==",
+  "dgSpecHash": "lPWXFQJvOlxO0/3ZbTAXiE03ep06GSB6CfNP8MEt681PU1nT4pQ4gzZMoQHVu55Sm9g4gNjpGJI4Rb3zJa5ZLA==",
   "success": true,
-  "projectFilePath": "F:\\ИТМО\\03 Программирование на C#\\_ДЗ\\Lab01\\Ex04_Divider\\Ex04_Divider.csproj",
+  "projectFilePath": "F:\\_Repository\\03_Csharp\\Lab01\\Ex04_Divider\\Ex04_Divider.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

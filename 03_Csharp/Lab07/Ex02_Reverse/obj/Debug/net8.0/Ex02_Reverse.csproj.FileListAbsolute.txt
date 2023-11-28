@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\bin\Debug\net8.0\Ex02_Reverse.exe
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\bin\Debug\net8.0\Ex02_Reverse.deps.json
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\bin\Debug\net8.0\Ex02_Reverse.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\bin\Debug\net8.0\Ex02_Reverse.dll
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\bin\Debug\net8.0\Ex02_Reverse.pdb
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.sourcelink.json
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.dll
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\refint\Ex02_Reverse.dll
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.pdb
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\Ex02_Reverse.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab07\Ex02_Reverse\obj\Debug\net8.0\ref\Ex02_Reverse.dll
