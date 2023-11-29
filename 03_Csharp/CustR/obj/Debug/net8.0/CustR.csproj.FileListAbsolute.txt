@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\CustR\bin\Debug\net8.0\CustR.exe
+F:\_Repository\03_Csharp\CustR\bin\Debug\net8.0\CustR.deps.json
+F:\_Repository\03_Csharp\CustR\bin\Debug\net8.0\CustR.runtimeconfig.json
+F:\_Repository\03_Csharp\CustR\bin\Debug\net8.0\CustR.dll
+F:\_Repository\03_Csharp\CustR\bin\Debug\net8.0\CustR.pdb
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.AssemblyInfo.cs
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.sourcelink.json
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.dll
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\refint\CustR.dll
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.pdb
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\CustR.genruntimeconfig.cache
+F:\_Repository\03_Csharp\CustR\obj\Debug\net8.0\ref\CustR.dll

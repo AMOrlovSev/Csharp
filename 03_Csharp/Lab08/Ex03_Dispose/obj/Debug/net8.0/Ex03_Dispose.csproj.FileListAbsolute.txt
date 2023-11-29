@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\bin\Debug\net8.0\Ex03_Dispose.exe
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\bin\Debug\net8.0\Ex03_Dispose.deps.json
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\bin\Debug\net8.0\Ex03_Dispose.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\bin\Debug\net8.0\Ex03_Dispose.dll
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\bin\Debug\net8.0\Ex03_Dispose.pdb
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.sourcelink.json
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.dll
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\refint\Ex03_Dispose.dll
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.pdb
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\Ex03_Dispose.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab08\Ex03_Dispose\obj\Debug\net8.0\ref\Ex03_Dispose.dll

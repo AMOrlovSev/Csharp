@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\bin\Debug\net8.0\Ex04_Triangle.exe
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\bin\Debug\net8.0\Ex04_Triangle.deps.json
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\bin\Debug\net8.0\Ex04_Triangle.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\bin\Debug\net8.0\Ex04_Triangle.dll
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\bin\Debug\net8.0\Ex04_Triangle.pdb
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.sourcelink.json
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.dll
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\refint\Ex04_Triangle.dll
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.pdb
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\Ex04_Triangle.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab08\Ex04_Triangle\obj\Debug\net8.0\ref\Ex04_Triangle.dll
