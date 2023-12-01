@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab09\Ex04_I\bin\Debug\net8.0\Ex04_I.exe
+F:\_Repository\03_Csharp\Lab09\Ex04_I\bin\Debug\net8.0\Ex04_I.deps.json
+F:\_Repository\03_Csharp\Lab09\Ex04_I\bin\Debug\net8.0\Ex04_I.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab09\Ex04_I\bin\Debug\net8.0\Ex04_I.dll
+F:\_Repository\03_Csharp\Lab09\Ex04_I\bin\Debug\net8.0\Ex04_I.pdb
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.sourcelink.json
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.dll
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\refint\Ex04_I.dll
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.pdb
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\Ex04_I.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab09\Ex04_I\obj\Debug\net8.0\ref\Ex04_I.dll

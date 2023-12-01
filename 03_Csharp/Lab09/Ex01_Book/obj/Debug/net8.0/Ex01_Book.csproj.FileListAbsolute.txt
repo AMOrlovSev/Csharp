@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\bin\Debug\net8.0\Ex01_Book.exe
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\bin\Debug\net8.0\Ex01_Book.deps.json
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\bin\Debug\net8.0\Ex01_Book.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\bin\Debug\net8.0\Ex01_Book.dll
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\bin\Debug\net8.0\Ex01_Book.pdb
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.sourcelink.json
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.dll
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\refint\Ex01_Book.dll
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.pdb
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\Ex01_Book.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab09\Ex01_Book\obj\Debug\net8.0\ref\Ex01_Book.dll

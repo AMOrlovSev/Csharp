@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\bin\Debug\net8.0\Ex05_Hierarchy_of_Figures.exe
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\bin\Debug\net8.0\Ex05_Hierarchy_of_Figures.deps.json
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\bin\Debug\net8.0\Ex05_Hierarchy_of_Figures.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\bin\Debug\net8.0\Ex05_Hierarchy_of_Figures.dll
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\bin\Debug\net8.0\Ex05_Hierarchy_of_Figures.pdb
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.sourcelink.json
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.dll
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\refint\Ex05_Hierarchy_of_Figures.dll
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.pdb
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\Ex05_Hierarchy_of_Figures.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab09\Ex05_Hierarchy_of_Figures\obj\Debug\net8.0\ref\Ex05_Hierarchy_of_Figures.dll
