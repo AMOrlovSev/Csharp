@@ -4,6 +4,7 @@
     {
         static void Main(string[] args)
         {
+            // для проверки
             Circle circle1 = new Circle();
             circle1.Show();
             Circle circle2 = new Circle(25);
@@ -43,6 +44,20 @@
             square1.RotateBasePointPolygon();
             square1.RotateBasePointPolygon();
             square1.RotateBasePointPolygon();
+
+            Random rand = new Random();
+
+            List<Shape> shapes = new List<Shape>();
+            for (var index = 0; index < 3; index++)
+            {
+                shapes.Add(new Circle(rand.Next(1,50)));
+                shapes.Add(new Square(rand.Next(1, 50)));
+                shapes.Add(new Triangle(rand.Next(1, 50)));
+            }
+            foreach (var shape in shapes)
+            {
+                shape.Show();
+            }
         }
     }
 }
