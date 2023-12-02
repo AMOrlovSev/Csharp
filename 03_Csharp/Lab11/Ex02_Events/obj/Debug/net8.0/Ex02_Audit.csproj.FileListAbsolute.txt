@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Audit.exe
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Audit.deps.json
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Audit.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Audit.dll
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Audit.pdb
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.sourcelink.json
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.dll
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\refint\Ex02_Audit.dll
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.pdb
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Audit.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\ref\Ex02_Audit.dll

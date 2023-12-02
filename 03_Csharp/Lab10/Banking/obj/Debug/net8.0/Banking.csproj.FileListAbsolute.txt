@@ -1,0 +1,12 @@
+F:\_Repository\03_Csharp\Lab10\Banking\bin\Debug\net8.0\Banking.deps.json
+F:\_Repository\03_Csharp\Lab10\Banking\bin\Debug\net8.0\Banking.dll
+F:\_Repository\03_Csharp\Lab10\Banking\bin\Debug\net8.0\Banking.pdb
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.sourcelink.json
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.dll
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\refint\Banking.dll
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\Banking.pdb
+F:\_Repository\03_Csharp\Lab10\Banking\obj\Debug\net8.0\ref\Banking.dll

@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Events.exe
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Events.deps.json
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Events.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Events.dll
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\bin\Debug\net8.0\Ex02_Events.pdb
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.sourcelink.json
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.dll
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\refint\Ex02_Events.dll
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.pdb
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\Ex02_Events.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab11\Ex02_Events\obj\Debug\net8.0\ref\Ex02_Events.dll

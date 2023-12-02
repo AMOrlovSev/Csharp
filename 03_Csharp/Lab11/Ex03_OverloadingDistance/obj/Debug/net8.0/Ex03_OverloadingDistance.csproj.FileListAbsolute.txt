@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.sourcelink.json
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\bin\Debug\net8.0\Ex03_OverloadingDistance.exe
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\bin\Debug\net8.0\Ex03_OverloadingDistance.deps.json
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\bin\Debug\net8.0\Ex03_OverloadingDistance.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\bin\Debug\net8.0\Ex03_OverloadingDistance.dll
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\bin\Debug\net8.0\Ex03_OverloadingDistance.pdb
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.dll
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\refint\Ex03_OverloadingDistance.dll
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.pdb
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\Ex03_OverloadingDistance.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab11\Ex03_OverloadingDistance\obj\Debug\net8.0\ref\Ex03_OverloadingDistance.dll

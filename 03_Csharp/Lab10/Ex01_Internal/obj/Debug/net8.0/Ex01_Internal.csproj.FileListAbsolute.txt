@@ -1,0 +1,15 @@
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\bin\Debug\net8.0\Ex01_Internal.exe
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\bin\Debug\net8.0\Ex01_Internal.deps.json
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\bin\Debug\net8.0\Ex01_Internal.runtimeconfig.json
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\bin\Debug\net8.0\Ex01_Internal.dll
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\bin\Debug\net8.0\Ex01_Internal.pdb
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.sourcelink.json
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.dll
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\refint\Ex01_Internal.dll
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.pdb
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\Ex01_Internal.genruntimeconfig.cache
+F:\_Repository\03_Csharp\Lab10\Ex01_Internal\obj\Debug\net8.0\ref\Ex01_Internal.dll

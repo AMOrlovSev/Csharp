@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34309.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex01_Internal", "Ex01_Internal\Ex01_Internal.csproj", "{81775682-79B9-45B0-BBA6-C22024FA4B92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ex02_DLL", "Ex02_DLL\Ex02_DLL.csproj", "{6EAA2C5C-C6D4-4D65-8B6E-D2E9BB35349E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Banking", "Banking\Banking.csproj", "{985320AA-3940-49D5-B262-C4FEAF82F2F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81775682-79B9-45B0-BBA6-C22024FA4B92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81775682-79B9-45B0-BBA6-C22024FA4B92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81775682-79B9-45B0-BBA6-C22024FA4B92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81775682-79B9-45B0-BBA6-C22024FA4B92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EAA2C5C-C6D4-4D65-8B6E-D2E9BB35349E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EAA2C5C-C6D4-4D65-8B6E-D2E9BB35349E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EAA2C5C-C6D4-4D65-8B6E-D2E9BB35349E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EAA2C5C-C6D4-4D65-8B6E-D2E9BB35349E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{985320AA-3940-49D5-B262-C4FEAF82F2F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{985320AA-3940-49D5-B262-C4FEAF82F2F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{985320AA-3940-49D5-B262-C4FEAF82F2F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{985320AA-3940-49D5-B262-C4FEAF82F2F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2299979-677D-4A2E-8E3F-228759BC41FF}
+	EndGlobalSection
+EndGlobal

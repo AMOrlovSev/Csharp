@@ -1,0 +1,12 @@
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.AssemblyInfoInputs.cache
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.AssemblyInfo.cs
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.csproj.CoreCompileInputs.cache
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.sourcelink.json
+F:\_Repository\03_Csharp\Lab12\Ex01\bin\Debug\net8.0\Ex01_Bank.deps.json
+F:\_Repository\03_Csharp\Lab12\Ex01\bin\Debug\net8.0\Ex01_Bank.dll
+F:\_Repository\03_Csharp\Lab12\Ex01\bin\Debug\net8.0\Ex01_Bank.pdb
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.dll
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\refint\Ex01_Bank.dll
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\Ex01_Bank.pdb
+F:\_Repository\03_Csharp\Lab12\Ex01\obj\Debug\net8.0\ref\Ex01_Bank.dll
