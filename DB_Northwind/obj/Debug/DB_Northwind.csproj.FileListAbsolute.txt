@@ -1,0 +1,10 @@
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\bin\Debug\DB_Northwind.exe.config
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\bin\Debug\DB_Northwind.exe
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\bin\Debug\DB_Northwind.pdb
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.csproj.AssemblyReference.cache
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.Form1.resources
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.Properties.Resources.resources
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.csproj.GenerateResource.cache
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.csproj.CoreCompileInputs.cache
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.exe
+F:\ITMO\07 ADO.NET\_HW\DB_Northwind\obj\Debug\DB_Northwind.pdb

@@ -1,0 +1,17 @@
+F:\_Repository\05_Csharp\Lab01\Ex02\bin\Debug\net8.0-windows\Ex02.exe
+F:\_Repository\05_Csharp\Lab01\Ex02\bin\Debug\net8.0-windows\Ex02.deps.json
+F:\_Repository\05_Csharp\Lab01\Ex02\bin\Debug\net8.0-windows\Ex02.runtimeconfig.json
+F:\_Repository\05_Csharp\Lab01\Ex02\bin\Debug\net8.0-windows\Ex02.dll
+F:\_Repository\05_Csharp\Lab01\Ex02\bin\Debug\net8.0-windows\Ex02.pdb
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.Form1.resources
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.csproj.GenerateResource.cache
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.GeneratedMSBuildEditorConfig.editorconfig
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.AssemblyInfoInputs.cache
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.AssemblyInfo.cs
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.csproj.CoreCompileInputs.cache
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.sourcelink.json
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.dll
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\refint\Ex02.dll
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.pdb
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\Ex02.genruntimeconfig.cache
+F:\_Repository\05_Csharp\Lab01\Ex02\obj\Debug\net8.0-windows\ref\Ex02.dll
